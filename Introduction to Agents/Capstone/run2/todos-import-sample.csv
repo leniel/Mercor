@@ -1,0 +1,13 @@
+User,Name,Completed,DueDate,Priority
+leniel@gmail.com,Buy groceries,false,2026-09-15,Normal
+leniel@gmail.com,Finish quarterly report,true,2026-09-10,High
+leniel@gmail.com,Call the dentist,false,09/20/2026,Low
+leniel@gmail.com,,false,2026-09-18,Normal
+leniel@gmail.com,Renew car insurance,notabool,2026-09-25,Normal
+leniel@gmail.com,Water the plants,false,,Low
+leniel@gmail.com,Water the plants,false,2026-09-19,Low
+leniel@gmail.com,Prepare Leniel's birthday gift,false,2026-13-40,High
+,Submit expense report,false,2026-09-22,Normal
+leniel@gmail.com,Review pull request #47,false,2026-09-12,Urgent
+leniel@gmail.com,Plan sprint retro,false,2026-09-14,2
+leniel@gmail.com,Update dependencies,false,01/02/2026,Normal
